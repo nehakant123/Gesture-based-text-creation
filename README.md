@@ -4,4 +4,5 @@ self-driving cars, which use similar deep learning programs to automate driving,
 takes us on a journey through the basics of these advanced systems, providing a foundational understanding of how they are developed.
 This project first enhanced my Python coding skills and then taught me the basics of machine learning. The best part was learning about **Convolutional Neural Networks (CNNs)** and 
 implementing various **OpenCV and MediaPipe projects**, such as creating a **face mesh** and a **hand detector**.
+
 This project operates in a straightforward manner. First, it activates the computer's camera and creates a virtual canvas using OpenCV and various MediaPipe packages. Users can then draw or write on this canvas within the range of the dataset included in the CNN module. After the input is provided, the CNN model trains the neural network and processes the input to produce the desired output.
