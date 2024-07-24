@@ -1,6 +1,7 @@
-GESTURE BASED HAND RECOGNITION
+***GESTURE BASED HAND RECOGNITION : SOC REPORT***
 
-Initial Insights
+**Initial Insights**
+
 My project for the Summer of Code(SoC) was focused on gesture-based hand recognition. I chose this topic because of my deep curiosity about how advanced technologies, 
 such as autonomous vehicles and gesture-controlled devices, operate. For instance, companies like Tesla have developed incredible automated cars, and gesture-based filters 
 enhance our photos, while recommendation systems personalise our experiences.
@@ -8,11 +9,13 @@ This project provided me with a deeper understanding of the mechanisms behind th
 By exploring gesture-based hand recognition, I gained insights into the intersection of computer vision, machine learning, and real-world applications.
 Let me take you through my project journey.
 
-Understanding the basics 
+**Understanding the basics**
+
 I started my journey by learning some basics of python. The basics included learning about different libraries for instance numpy , matplotlib, math and many more.I learnt how 
 to plot different kinds of graph using matplotlib library.Our first assignment was mainly focused on brushing up our coding skills.
 
-Unfolding the Project Story: From Start to Finish
+**Unfolding the Project Story: From Start to Finish**
+
 Then we moved forward and learned about neural networks. Neural networks were an important part of our journey. I learned about how neural networks behave and how two layers are 
 connected to each other.I also learned about different type of activation functions and how they affect our results.Then comes the most important part of Neural Networks
 backpropagation.
@@ -31,18 +34,21 @@ part. In week 5, we tackled tasks such as drag-and-drop functionality, gesture-b
 Finally, after learning many new and exciting things, we reached week 6, the culmination of our journey. In this week, I was required to implement the knowledge gained over the 
 past five weeks and create a gesture-based handwritten digit recognition model.
 
-Model Framework and Capabilities
+**Model Framework and Capabilities**
+
 To enhance the visual experience of utilising various colour brushes, I incorporated different template headers to give a more engaging user interface.I included an eraser to 
 remove any unnecessary parts. The template header features a volume control option, which allows users to adjust the system volume through gestures. Additionally, a sun icon is 
 provided to manage screen brightness via gestures. To enhance user experience, I incorporated a visual level bar that displays the current brightness level. The header dynamically
 changes according to the functionality selected by the user.I used three distinct CNN models to generate predictions, and then aggregated the results from these models. 
 The final prediction was determined by selecting the number with the highest count among the results.
 
-Roadblocks and Workarounds
+**Roadblocks and Workarounds**
+
 Throughout the project, I faced several challenges, including finding optimal libraries for my system, developing a level bar for brightness control, and troubleshooting 
 various errors. To overcome these obstacles, I analysed various open-source GitHub repositories and continuously refined my code.
 
-End of Journey: Key Takeaways
+**End of Journey: Key Takeaways**
+
 In conclusion, this project on gesture-based hand recognition has been a remarkable journey through advanced concepts in computer vision and neural networks. By integrating 
 real-time image processing with neural network models, I was able to develop a system that not only recognises hand gestures but also translates them into meaningful actions, 
 such as controlling volume and brightness.
