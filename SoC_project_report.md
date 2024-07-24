@@ -3,7 +3,7 @@
 **Initial Insights**
 
 My project for the Summer of Code(SoC) was focused on gesture-based hand recognition. I chose this topic because of my deep curiosity about how advanced technologies, 
-such as autonomous vehicles and gesture-controlled devices, operate. For instance, companies like Tesla have developed incredible automated cars, and gesture-based filters 
+such as autonomous vehicles and gesture-controlled devices, operate. For instance, companies like Tesla have developed incredible automated cars, and gesture-based filters to
 enhance our photos, while recommendation systems personalise our experiences.
 This project provided me with a deeper understanding of the mechanisms behind these innovations, answering many questions that have intrigued me about how things work. 
 By exploring gesture-based hand recognition, I gained insights into the intersection of computer vision, machine learning, and real-world applications.
@@ -24,8 +24,7 @@ Backpropagation is a fundamental algorithm used in training neural networks. It 
 rule, iterating backward from the output layer to the input layer. This allows us to adjust the weights to minimise the error between the predicted output and the actual output.
 
 Then we learned about CNNs (Convolutional Neural Networks). CNNs reduce the number of trainable parameters by using different types of pooling layers, which makes them suitable for
-handling large datasets. They can also extract features from images, which helps in learning local patterns. Our Week 3 assignment was mainly focused on this aspect and required us
-to create different CNN models for various datasets.
+handling large size datasets. They can also extract features from images, which helps in learning local patterns. Our Week 3 assignment was mainly focused on this aspect and required us to create different CNN models for various datasets.
 
 Then we moved on to learning the most exciting aspect of our project that is using the OpenCV and MediaPipe libraries to capture real-time images. I was so interested that I 
 created various programs, such as FaceMesh and gesture-based volume control, which eventually contributed to my final project. Our week 4 and week 5 was mainly focused on this 
